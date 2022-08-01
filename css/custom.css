@@ -1,0 +1,620 @@
+/* source-sans-pro-200 - latin */
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/source-sans-pro-v19-latin-200.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/source-sans-pro-v19-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/source-sans-pro-v19-latin-200.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-200.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-200.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/source-sans-pro-v19-latin-200.svg#SourceSansPro') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* source-sans-pro-300 - latin */
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/source-sans-pro-v19-latin-300.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/source-sans-pro-v19-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/source-sans-pro-v19-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/source-sans-pro-v19-latin-300.svg#SourceSansPro') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* source-sans-pro-regular - latin */
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/source-sans-pro-v19-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/source-sans-pro-v19-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/source-sans-pro-v19-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/source-sans-pro-v19-latin-regular.svg#SourceSansPro') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* source-sans-pro-600 - latin */
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/source-sans-pro-v19-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/source-sans-pro-v19-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/source-sans-pro-v19-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-600.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/source-sans-pro-v19-latin-600.svg#SourceSansPro') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* source-sans-pro-700 - latin */
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/source-sans-pro-v19-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/source-sans-pro-v19-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/source-sans-pro-v19-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/source-sans-pro-v19-latin-700.svg#SourceSansPro') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* source-sans-pro-900 - latin */
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/source-sans-pro-v19-latin-900.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/source-sans-pro-v19-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/source-sans-pro-v19-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-900.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/source-sans-pro-v19-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/source-sans-pro-v19-latin-900.svg#SourceSansPro') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* merienda-regular - latin */
+
+@font-face {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/merienda-v12-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/merienda-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/merienda-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/merienda-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/merienda-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/merienda-v12-latin-regular.svg#Merienda') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* merienda-700 - latin */
+
+@font-face {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/merienda-v12-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: local(''), url('../fonts/merienda-v12-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/merienda-v12-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/merienda-v12-latin-700.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/merienda-v12-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/merienda-v12-latin-700.svg#Merienda') format('svg');
+    /* Legacy iOS */
+}
+
+body {
+    font-family: 'Source Sans Pro';
+    color: #000;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1260px;
+    }
+}
+
+a.back-to-top {
+    position: fixed;
+    bottom: 60px;
+    right: 30px;
+    display: none;
+    background: #fff;
+    color: #F32121;
+    padding: 8px 14px;
+    border-radius: 5px;
+}
+
+a.back-to-top:hover {
+    background: #000;
+}
+
+
+/*header*/
+
+.navbar {
+    padding: 2rem 0rem;
+}
+
+a.nav-link {
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 19px;
+    text-transform: uppercase;
+    font-family: "Source Sans Pro", sans-serif;
+    padding-bottom: 10px;
+}
+
+.nav-link {
+    padding-left: .8rem !important;
+    padding-right: .8rem !important;
+}
+
+a.nav-link.active,
+a.nav-link:hover {
+    background: transparent url("../img/menuline.png") no-repeat center bottom;
+}
+
+#dropMenu {
+    position: relative;
+}
+
+.drop-menu-li {
+    position: absolute;
+    top: 100%;
+    display: none;
+    left: 0;
+    width: 180px;
+    background: #fff;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+}
+
+.drop-menu-li ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.drop-menu-li>ul>li {}
+
+#dropMenu:hover .drop-menu-li {
+    display: block;
+}
+
+
+/** Footer **/
+
+#preFooter {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+#preFooter .fa {
+    width: 42px;
+    font-size: 1.3rem;
+    color: #F32121;
+}
+
+.foot-icons-bar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.f-icons {
+    display: flex;
+    align-items: center;
+}
+
+.social-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+}
+
+.social-bar a {
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.social-bar a:hover {
+    color: #F32121;
+}
+
+#copyright {
+    padding: 1rem 0;
+}
+
+
+/** Home page **/
+
+.jap-txt {
+    width: 26px !important;
+    height: 293px;
+}
+
+.slider-img {
+    height: 550px;
+    object-fit: contain;
+}
+
+.slider-title {
+    font-family: "Merienda", sans-serif;
+    font-size: 3.1rem;
+    font-weight: 600;
+    line-height: 3.6rem;
+    margin-bottom: 1rem;
+    color: #000;
+}
+
+.slider-tagline {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+}
+
+a.slider-btn {
+    display: inline-block;
+    width: 250px;
+    min-height: 70px;
+    margin-top: 2.5rem;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px;
+    line-height: 70px;
+    background: transparent url("../img/buttonred.png") no-repeat center center;
+    transition: all 0.3s ease;
+}
+
+a.slider-btn:hover {
+    background: transparent url("../img/buttonblack.png") no-repeat center center;
+}
+
+.section-title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Merienda';
+    font-weight: 600;
+    line-height: 1;
+}
+
+.section-title-decor {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.section-padd {
+    padding: 5rem 0;
+}
+
+.story-txt {
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+}
+
+.menu-card {
+    position: relative;
+    margin-bottom: 3rem;
+}
+
+.menu-card-img {
+    width: 100%;
+    border-radius: 50px;
+    height: 280px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.menu-card-img:hover {
+    transform: scale(1.1, 1.1);
+    transition: 1.5s;
+    border-radius: 50px;
+}
+
+.menu-card-label {
+    position: absolute;
+    display: block;
+    width: 50%;
+    background: rgba(255, 255, 255, .7);
+    padding: 1rem 1.4rem;
+    top: 25%;
+    left: 0;
+    border-radius: 0 10px 10px 0;
+    font-size: 1.2rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    color: #000;
+}
+
+.menu-card:hover .menu-card-label {
+    background: rgba(255, 255, 255, 1.0);
+}
+
+#specialMenu {
+    background-repeat: repeat;
+    padding: 5rem 0;
+}
+
+.single-menu-line1 {
+    display: flex;
+    align-items: baseline;
+}
+
+.single-menu-dots {
+    background: transparent url("../img/dotted.svg") no-repeat left center;
+    width: 100%;
+    height: 2px;
+    opacity: 1;
+}
+
+.singe-menu-name {
+    white-space: nowrap;
+    margin-right: 15px;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.single-menu-price {
+    margin-left: 15px;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.single-menu-line2 {
+    display: flex;
+    justify-content: space-between;
+    color: #8E8E8E;
+    font-size: 1.1rem;
+}
+
+.single-menu-txt {
+    margin-bottom: 1.2rem;
+}
+
+.homegallery-img {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 2rem;
+    transition: all 0.3s ease;
+    border-radius: 20px;
+    box-shadow: 0 0 25px 2px rgb(0 0 0 / 70%);
+}
+
+.homegallery-img:hover {
+    transform: scale(1.08);
+}
+
+a.txt-btn {
+    text-transform: uppercase;
+    color: #000;
+    display: inline-block;
+    margin-top: 1rem;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+a.txt-btn:hover {
+    color: #F32121;
+}
+
+#reservationForm {
+    padding: 3rem 0;
+}
+
+.input-field input,
+.input-field textarea {
+    color: #8E8E8E;
+    width: 100%;
+    padding: 20px;
+    background: transparent;
+    border: 3px solid #333;
+    outline: none;
+    margin-bottom: 1rem;
+    border-radius: 50px;
+}
+
+.input-field:hover input,
+.input-field input:focus{
+    background: #fff;
+}
+
+.testimonial-block {
+    text-align: center;
+}
+
+.testimonial-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.testimonial-desc {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 1rem;
+}
+
+.testimonial-msg {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+#homeTestimonial {
+    position: relative;
+}
+
+#homeTestimonial .owl-theme .owl-dots .owl-dot span {
+    background: #000;
+}
+
+#homeTestimonial .owl-theme .owl-dots .owl-dot.active span,
+#homeTestimonial .owl-theme .owl-dots .owl-dot:hover span {
+    background: #F32121;
+}
+
+.footer-tagline .section-title {
+    font-size: 1.8rem;
+}
+
+img.bgdecor-left {
+    position: absolute;
+    top: 12%;
+    left: 0;
+    width: 13%;
+}
+
+img.bgdecor-right {
+    position: absolute;
+    top: 12%;
+    right: 0;
+    width: 13%;
+}
+
+.page-title-bar {
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.page-title {
+    font-family: "Merienda", sans-serif;
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #000;
+}
+
+.page-breadcrumb a {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+
+.page-breadcrumb a:hover {
+    color: #F32121;
+}
+
+#googleMap iframe {
+    width: 100%;
+}
+
+#contactForm {
+    padding: 2rem 0;
+}
+
+#contactForm input[type="text"],
+#contactForm input[type="phone"],
+#contactForm input[type="date"],
+#contactForm input[type="time"],
+#contactForm input[type="number"],
+#contactForm input[type="email"],
+#contactForm textarea {
+    width: 100%;
+    background: #fff;
+    color: #666;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    padding: 18px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+}
+
+#contactForm label {
+    color: #888;
+}
+
+#contactForm label:hover {
+    color: #000;
+}
+
+.form-btn {
+    display: inline-block;
+    width: 250px;
+    min-height: 70px;
+    margin-top: 1rem;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px;
+    line-height: 70px;
+    background: transparent url("../img/buttonred.png") no-repeat center center;
+    transition: all 0.3s ease;
+    outline: none;
+    border: none;
+}
+
+.form-btn:hover {
+    background: transparent url("../img/buttonblack.png") no-repeat center center;
+}
+div#html5-watermark {
+    display: none !important;
+}
+
+.form-btn1{
+    display: inline-block;
+    width: 100%;
+    min-height: 70px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px;
+    line-height: 70px;
+    background: transparent url("../img/buttonred.png") no-repeat center center;
+    transition: all 0.3s ease;
+    outline: none;
+    border: none;
+}
+.form-btn1:hover{
+    background: transparent url("../img/buttonblack.png") no-repeat center center;
+}

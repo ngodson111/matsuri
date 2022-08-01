@@ -1,0 +1,133 @@
+@media only screen and (max-width: 768px){
+
+.home-slider-grid {
+    grid-template-columns: 100%;
+    grid-gap: 10px;
+}
+.slider-right-images {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+.home-slider-text {
+    width: 40%;
+    height: 70%;
+    padding: 2rem 1rem;
+}
+img.slider-txt-logo {
+    width: 60px !important;
+}
+.slider-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin: .5rem 0 .4rem;
+}
+.slider-tagline {
+    font-size: 0.7rem;
+}
+#homeSliderSection .owl-dots {
+   display: none;
+}
+#homeSearchBanner {
+    padding: 80px 0;
+}
+#bannerSearchForm {
+    grid-template-columns: repeat(1 ,1fr);
+    grid-gap: 10px;
+}
+.form-right{
+	border: none;
+}
+#perfectWay {
+    padding: 4rem 0;
+}
+.desc-title {
+    font-size: 1.8rem;
+}
+.home-abt-text {
+    font-size: 18px;
+}
+.vendor-card-txt {
+    padding: .6rem;
+}
+#saleSection {
+    padding: 2rem 0 3rem;
+}
+.abt-block img {
+    margin-bottom: 1rem;
+}
+.service-block img {
+    margin: 1rem 0;
+}
+.contact-info-block {
+    margin-top: 2rem;
+}
+.second, .third, .fourth {
+    margin-top: 1rem;
+}
+.login-img, .apply-img {
+    margin-bottom: 2rem;
+}
+#desktopMenu {
+    padding: 3px 0;
+}
+
+
+}
+
+@media only screen and (max-width: 500px){
+.home-slider-text {
+    width: 40%;
+    height: 60%;
+    padding: 3rem 1rem;
+}
+.slider-title {
+    font-size: .8rem;
+}
+.slider-tagline{
+	display: none;
+}
+img.slider-txt-logo{
+	width: 50px !important;
+}
+.form-left, .form-right {
+    padding: 4px 10px;
+}
+.desc-title {
+    font-size: 1.6rem;
+}
+.home-abt-text {
+    font-size: 16px;
+}
+.section-title {
+    font-size: 1.6rem;
+}
+.section-tagline {
+    font-size: 16px;
+    margin-bottom: 2rem;
+}
+section#saleSection img {
+    margin-bottom: 1rem;
+}
+.service-intro {
+    font-size: 1rem;
+    text-align: center;
+    padding: 3rem 0 3rem;
+}
+.service-title {
+    font-size: 1.4rem;
+}
+.service-desc {
+    font-size: 15px;
+}
+.flag-wrap img {
+    max-width: 80px;
+}
+.vendor-card-txt {
+    padding: 1rem;
+}
+#desktopMenu {
+    padding: 1px 0;
+}
+
+}

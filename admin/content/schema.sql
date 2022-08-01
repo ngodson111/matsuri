@@ -1,0 +1,54 @@
+CREATE TABLE auth (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uid VARCHAR(100) NOT NULL,
+    username VARCHAR(100) NOT NULL,
+    password TEXT NOT NULL,
+    inserted VARCHAR(50) NOT NULL
+);
+CREATE TABLE slider (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uid VARCHAR(100) NOT NULL,
+    title VARCHAR(100) NOT NULL,
+    description TEXT NOT NULL,
+    image TEXT NOT NULL,
+    inserted VARCHAR(50) NOT NULL
+);
+CREATE TABLE reservation (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uid VARCHAR(100) NOT NULL,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    phone VARCHAR(100) NOT NULL,
+    date VARCHAR(100) NOT NULL,
+    time VARCHAR(100) NOT NULL,
+    guest VARCHAR(100) NOT NULL,
+    description TEXT NOT NULL,
+    inserted VARCHAR(50) NOT NULL
+);
+CREATE TABLE karaokereservation (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uid VARCHAR(100) NOT NULL,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    phone VARCHAR(100) NOT NULL,
+    date VARCHAR(100) NOT NULL,
+    time VARCHAR(100) NOT NULL,
+    guest VARCHAR(100) NOT NULL,
+    description TEXT NOT NULL,
+    inserted VARCHAR(50) NOT NULL
+);
+CREATE TABLE contact (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uid VARCHAR(100) NOT NULL,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    description TEXT NOT NULL,
+    inserted VARCHAR(50) NOT NULL
+);
+CREATE TABLE gallery (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uid VARCHAR(100) NOT NULL,
+    image TEXT NOT NULL,
+    state VARCHAR(50) NOT NULL,
+    inserted VARCHAR(50) NOT NULL
+);
